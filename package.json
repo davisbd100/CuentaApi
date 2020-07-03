@@ -1,0 +1,19 @@
+{
+  "name": "Cuenta-Api",
+  "version": "1.0.0",
+  "description": "Api desarrollo de aplicaciones",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.3"
+  }
+}
